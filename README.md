@@ -1,3 +1,11 @@
+The project is a Contact Manager web application
+developed using React.js and Bootstrap. It allows users to
+efficiently organize and manage their contacts through an
+intuitive and visually appealing interface. Users can add, edit,
+delete contacts, and the responsive design ensures seamless
+access from desktops, tablets, and smartphones.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
